@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Repositories/TaskConditionsRepository.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/Projects.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/TaskPriorities.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Controllers/EmployeeController.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Controllers/TaskController.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/ProjectsFull.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/Employees.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Controllers/TaskPrioritiesController.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Controllers/ProjectController.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/TaskConditions.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Controllers/TaskConditionsController.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Repositories/TaskRepository.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/Tasks.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Models/TaskTypes.java</file>
+            <file>file:/C:/Users/Eleven/Documents/NetBeansProjects/TaskManager/src/main/java/Controllers/TaskTypesController.java</file>
+        </group>
+    </open-files>
+</project-private>

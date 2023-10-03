@@ -1,0 +1,250 @@
+body
+{
+    background-color: rgb(130, 136, 168);
+}
+.main_div
+{
+    position: absolute;
+    top: 0px;
+}
+
+.tabbar
+{
+    background-color: transparent !important;
+}
+
+.multiview
+{
+    background-color: transparent !important;
+    margin-left: 0 !important;
+    margin-top: 10 !important;
+}
+
+.tab
+{
+    background-color: transparent !important;
+}
+
+.priority_important
+{
+    background-color: rgba(255, 149, 149, 0.7) !important;
+}
+.priority_high
+{
+    background-color: rgb(241, 175, 53, 0.7) !important;
+}
+.priority_medium
+{
+    background-color: rgb(240, 240, 93, 0.7) !important;
+}
+.priority_low
+{
+    background-color: rgb(176, 255, 176, 0.7) !important;
+}
+
+.align_center{
+    text-align: center;
+}
+
+.info_window
+{
+    position: relative;
+    left: 3px;
+    width: 345px !important;
+    background-color: rgb(199, 205, 255);
+}
+
+
+.header
+{
+    text-align: center;
+    position: relative;
+    width:100% !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #6481a8 !important;
+}
+
+
+.label
+{
+    margin-top: 15px !important;
+    margin-left: 10px !important;
+    width: auto !important;
+    height: 25px !important;
+    text-align: center;
+    color: black !important;
+
+}
+
+.tb_noedit
+{
+    background-color: rgb(224, 224, 224);
+    width: 50px !important;
+    margin-left: 42px !important;
+    margin-bottom: 25px !important;
+}
+
+.tb
+{
+    width: 350px !important;
+    margin-left: 10px !important;
+    white-space: pre-line !important;
+}
+
+.cb
+{
+    margin-left: 10px !important;
+}
+
+.webix_el_box input
+{
+    color: black;
+    font-family: Georgia, serif;
+}
+
+.webix_inp_static
+{
+    color: black !important;
+    font-family: Georgia, serif !important;
+}
+
+.webix_el_text input
+{
+    color: black !important;
+    font-family: Georgia, serif !important;
+}
+
+.webix_inp_textarea
+{
+    color: black !important;
+    font-family: Georgia, serif !important;
+}
+
+.webix_inp_label
+{
+    color: black;
+    font-family: Georgia, serif;
+    font-size: 12px;
+}
+
+.webix_ss_filter select
+{
+    color: black !important;
+}
+
+.webix_item_tab
+{
+    color: #6481a8 !important;
+}
+
+.webix_button
+{
+    color: #6481a8 !important;
+    background-color: #e4e9ff !important;
+    border: solid rgb(94, 90, 148) 1px !important;
+}
+
+.webix_button:hover
+{
+    background-color: #414e5f !important;
+}
+
+.webix_item_tab.webix_selected
+{
+    background-color: white !important;
+
+}
+
+
+
+.id_label
+{
+    margin-left: 0px !important;
+    margin-top: 15px !important;
+    width: 80px !important;
+    height: 30px !important;
+    Color: black;
+    text-align: left;
+    font-size: 12px;
+}
+
+.transparent_bg
+{
+    background-color: transparent !important;
+    border: none;
+}
+
+
+
+.text
+{
+    font-family: Georgia, serif !important;
+    font-size: 30px !important;
+}
+
+.button
+{
+    width: 150px !important;
+   
+}
+
+.webix_hcell
+{
+    font-size: 12px;
+    text-align: center;
+}
+
+.datatable
+{
+    font-size: 12px;
+    color: black;
+}
+
+.toolbar
+{
+    background-color: rgb(199, 205, 255);
+    text-align: center;
+    margin: 0 !important;
+}
+
+.user_template
+{
+    position: relative;
+    height: 25px !important;
+    padding-top: 2px !important;
+    margin-top: 7px !important;
+    border: solid rgb(255, 255, 255) 1px;
+    background-color:  rgb(233, 235, 255);
+}
+
+.form
+{
+    background-color: rgb(184, 189, 248) !important;
+    position: relative;
+    margin: auto;
+    top: 200px;
+}
+
+.auth_header
+{
+    text-align: center;
+    width:100% !important;
+    margin: 0 !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #4d75aa !important;
+    background-color:  #f0f6ff !important;
+    border: none;
+}
+
+.select_disabled {
+    -webkit-touch-callout: none; 
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;           
+  }
